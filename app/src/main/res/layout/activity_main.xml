@@ -28,5 +28,6 @@
         android:layout_height="wrap_content"
         android:layout_below="@+id/main_et_info"
         android:onClick="sayHello"
+        android:textSize="20sp"
         android:text="Say hello!"/>
 </RelativeLayout>
